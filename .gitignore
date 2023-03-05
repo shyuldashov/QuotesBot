@@ -5,6 +5,8 @@
 ## Project Files
 ##############################
 BuildConfig.java
+local_history.patch
+src/main/resources/
 
 ##############################
 ## Other files
